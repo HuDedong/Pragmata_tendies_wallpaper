@@ -20,7 +20,7 @@
 ## Preview
 
 <p align="center">
-  <img src="./preview.gif" width="300" />
+  <video src="./preview.mp4" autoplay loop muted playsinline width="300"></video>
 </p>
 
 ---
